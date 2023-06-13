@@ -1,0 +1,15 @@
+.row div{
+    margin: 0.25rem;
+}
+.col-sm{
+    background-color: aliceblue;
+}
+.col-md{
+    background-color: rgb(240, 255, 248);
+}
+.col-lg{
+    background-color: rgb(252, 240, 255);
+}
+.col-xl{
+    background-color: rgb(255, 240, 242);
+}

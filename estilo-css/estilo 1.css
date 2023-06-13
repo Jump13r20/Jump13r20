@@ -1,0 +1,11 @@
+h1, h2{
+    color: red;
+
+}
+li{
+    color: green;
+}
+.li:first-child{
+    color: green;
+    
+}

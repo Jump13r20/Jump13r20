@@ -1,0 +1,10 @@
+
+.boton::after {
+   content: "Pasa por encima";
+}
+.boton:hover{
+    background-color: green;
+    color: white;
+}
+
+/*no se ha que se quieren referir con el ultimo punto --Utiliza los pseudo-elementos para cambiar el texto del botón a "¡Hecho!"--*/
